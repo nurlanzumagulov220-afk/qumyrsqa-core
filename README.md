@@ -119,3 +119,19 @@ Proprietary. Все права защищены.
 ---
 
 © 2026 QumyrsqaCore. Сделано в Казахстане 🇰
+---
+
+## 🐜 Quick Demo (MVP Preview)
+
+> **Интеллектуальный щит QumyrsqaCore в действии.**
+
+### 📊 Предиктивная аналитика и Мониторинг
+![Dashboard Analysis](image_c60136.png)
+
+### 🤖 Голосовое управление и Telegram-интеграция
+<p align="center">
+  <img src="1000118629.jpg" width="45%" />
+  <img src="1000118630.jpg" width="45%" />
+</p>
+
+---
