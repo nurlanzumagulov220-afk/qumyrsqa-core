@@ -6,8 +6,8 @@ import requests
 from datetime import datetime  # <-- Это нужно для записи времени
 
 # --- НАСТРОЙКИ ТЕЛЕГРАМА (Твои данные уже тут) ---
-TELEGRAM_TOKEN = "8673217255:AAHm_wWr-PoaK3AwTpa4trzzlzmVF5RRf1M" # Вставь свой токен снова
-CHAT_ID = "6885842409" 
+TELEGRAM_TOKEN = "" # Вставь свой токен снова
+CHAT_ID = "" 
 
 def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
