@@ -49,5 +49,10 @@ pip install streamlit pandas plotly scikit-learn
 
 # Запуск приложения
 python -m streamlit run app.py
-🎯 Бизнес-ценность
+## ⚖️ License & Intellectual Property
+This entire repository is licensed under the **GNU GPLv3**. 
+
+**Core components are protected by state patents (NIIS RK):**
+1. 🐜 **Swarm Logistics Core** (folder `/app`) — Certificate **№ 68948**
+2. 🛡️ **GuardAI Safety Module** (folder `/guard_ai`) — Certificate **№ 447539**🎯 Бизнес-ценность
 Система позволяет перейти от реактивного управления (фиксация фактов) к предиктивному (предотвращение). Внедрение данного прототипа снижает вероятность тяжелых несчастных случаев на 10-15% в годовой перспективе.
